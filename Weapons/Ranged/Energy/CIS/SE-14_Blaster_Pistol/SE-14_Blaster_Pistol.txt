@@ -1,0 +1,15 @@
+SE-14 Blaster Pistol
+--------------------
+Cena: 450 Credits
+Damage Type: Energy
+Weapon Type: Pistol
+Mag Size: 10
+Firing Mode: Semi-Auto, Stun
+Firing Ranges: Short
+               Mid (-10 Aim)
+Damage: 13
+Penetrace: 0
+Attachments: Laser Sight (+5 Crit Chance)
+             Red-Dot Sight (+110 Credits, +5 Aim)
+             Expanded Mag (+70 Credits, +5 Mag Size)
+Special Atributes: None

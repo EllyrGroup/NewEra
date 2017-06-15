@@ -1,0 +1,21 @@
+DC15a Blaster Marksman Rifle
+-----------------------------
+Cena: 1600 Credits
+Damage Type: Energy
+Weapon Type: Rifle
+Mag Size: 20
+Firing Mode: Semi-Auto, Stun
+Firing Ranges: Short
+               Mid (+5 Aim)
+               Long (-5 Aim)
+Damage: 38
+Penetrace: 0
+Attachments: Míøidla (-100 Credits, -10 Aim Mid Range, -20 Aim Long Range)
+             Basic Scope - 1x-2,5x Zoom (Default)
+             Advanced Scope (+200 Credits, +5 Crit Chance, Thermovission)
+             Long Range Scope 2,5x-5,5x (+150 Credits, -10 Aim Short Range, -0 Aim Long Range)
+             Advanced Long Range Scope (+250 Credits, -10 Aim Short Range, -0 Aim Long Range, Thermovission, +5 Crit Chance)
+             Sniper Scope - 3,4x-10x Zoom (+250 Credits, -20 Aim Short Range, +10 Aim Long Range)
+             Bipod (+60 Credits, Steady Hands Ability - +15 Aim, Charge: 1 Tah)
+             Expanded Mag (+50 Credits, +5 Mag Size)
+Special Atributes: Target Marker: Odhalení pozice nepøítele pro spojence s vybavením s možností "Squad Target Marker Software"+10 Aim na "marknutý" cíl

@@ -15,5 +15,5 @@ Attachments: Míøidla (-100 Credits, -10 Aim Mid Range, -20 Aim Long Range)
              Long Range Scope 2,5x-5,5x (+100 Credits, -10 Aim Short Range, -0 Aim Long Range, Thermovission)
              Advanced Scope (+150 Credits, +5 Crit Chance, Thermovission)
              Advanced Long Range Scope (+200 Credits, -10 Aim Short Range, -0 Aim Long Range, Thermovission, +5 Crit Chance)
-             Expanded Mag (+20 Credits, +10 Mag Size)
+             Expanded Mag (+80 Credits, +10 Mag Size)
 Special Atributes: Grenade Launcher
