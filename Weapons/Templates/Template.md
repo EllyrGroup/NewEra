@@ -24,7 +24,7 @@
 **Módy Střelby:** 1, 2, 3
 **Dosahy**
 
-|Krátký| Střední | Dlohý |
+|Krátký| Střední | Dlouhý |
 | ------ | ------ | ------ |
 | +5 DMG | +0 DMG | -5 DMG |
 
