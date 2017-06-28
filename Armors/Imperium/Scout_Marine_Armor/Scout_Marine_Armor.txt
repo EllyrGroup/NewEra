@@ -1,0 +1,8 @@
+Scout Marine Armor
+-------------------
+Cena: 4500 Credits
+Material: Ceramite, Adamantium
+Armor: Energy: 27
+       Kinetic: 27
+Special Attributes: +1 Síla
+                    Potøeba speciálního výcviku

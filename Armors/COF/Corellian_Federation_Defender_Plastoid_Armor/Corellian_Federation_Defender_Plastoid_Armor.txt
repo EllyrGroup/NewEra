@@ -1,0 +1,7 @@
+Corellian Federation Defender Plastoid Armor
+---------------------------------------------
+Cena: 1800 Credits
+Material: Plastoid
+Armor: Enegy: 18
+       Kinetic: 13
+Special Attributes: Squad Target Marker Software, Thermovission

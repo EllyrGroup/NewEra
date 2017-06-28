@@ -1,0 +1,8 @@
+Confederacy Militia Plastoid Armor
+-----------------------------------
+Cena: 1500 Credits
+Material: Plastoid
+Armor: Energy: 16
+       Kinetic: 11
+Special Attributes: Squad Target Marker Software 
+                    Thermovission

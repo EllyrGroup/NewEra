@@ -1,0 +1,6 @@
+Plastoid Chestplate
+--------------------
+Cena: 400 Credits
+Material: Plastoid
+Armor: Energy: 7
+       Kinetic: 3

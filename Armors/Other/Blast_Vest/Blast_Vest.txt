@@ -1,0 +1,7 @@
+Blast Vest
+--------------------
+Cena: 300 Credits
+Material: Synthetic fibre, Laminoid
+Armor: Energy: 5
+       Kinetic: 2
+

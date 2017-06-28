@@ -1,0 +1,8 @@
+Nanoscale Armor Vest
+--------------------
+Cena: 450 Credits
+Material: Nanoscale
+Armor: Energy: 1
+       Kinetic: 7
+
+

@@ -1,0 +1,8 @@
+Stormtrooper Plastoid Armor
+----------------------------
+Cena: 2000 Credits
+Material: Plastoid
+Armor: Energy: 20
+       Kinetic: 15
+Special Attributes: Squad Target Marker Software
+                    Thermovission

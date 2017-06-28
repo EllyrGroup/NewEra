@@ -1,0 +1,8 @@
+Kolto Vest
+----------
+Cena: 1200 Credits
+Material: Synthetic fibre
+Armor: Energy: 0
+       kinetic: 0
+Special Attributes: Kolto Injection System - Regenerace HP (3x10)
+                    Možnost nošení pod armorem

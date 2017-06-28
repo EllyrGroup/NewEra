@@ -1,0 +1,8 @@
+Pentastar Trooper Gen2 Plastoid Armor
+-------------------------------------
+Cena: 2200 Credits
+Material: Plastoid
+Armor: Energy: 22
+       Kinetic: 17
+Special Attributes: Squad Target Marker Software 
+                    Thermovission

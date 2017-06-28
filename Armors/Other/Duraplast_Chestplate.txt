@@ -1,0 +1,6 @@
+Duraplast Chestplate
+---------------------
+Cena: 450 Credits
+Material: Duraplast
+Armor: Energy: 8
+       Kinetic: 4

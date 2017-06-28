@@ -1,0 +1,6 @@
+Duralsteel Chestplate
+---------------------
+Cena: 500 Credits
+Material: Duralsteel
+Armor: Energy: 9
+       Kinetic: 7

@@ -1,0 +1,11 @@
+Storm Commando Plastoid Armor
+-----------------------------
+Cena: 3500 Credits
+Material: Plastoid
+Armor: Energy: 15
+       Kinetic: 10
+Special Attributes: Squad Target Marker Software 
+                    Thermovission
+                    Combat Awarness Software (+1 Vnímavost)
+                    Aim Assist Software (+5 Aim)
+                    Cloaking Device

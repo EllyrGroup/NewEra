@@ -1,0 +1,6 @@
+Imperium Schocktrooper Carapace Armor
+-------------------------------------
+Cena: 1200 Credits
+Material: Ceramite
+Armor: Energy: 14
+       Kinetic: 9

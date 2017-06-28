@@ -1,0 +1,8 @@
+Scout Trooper Plastoid Armor
+-----------------------------
+Cena: 1900 Credits
+Material: Plastoid
+Armor: 15
+Special Attributes: Squad Target Marker Software
+        Thermovission
+        Combat Awarness Software (+1 Vnímavost)

@@ -1,0 +1,8 @@
+Novatrooper Plasteel Armor
+--------------------------
+Cena: 2500 Credits
+Material: Plastoid, Duralsteel
+Armor: Energy: 25
+       Kinetic: 20
+Special Attributes: Squad Target Marker Software
+                    Thermovission

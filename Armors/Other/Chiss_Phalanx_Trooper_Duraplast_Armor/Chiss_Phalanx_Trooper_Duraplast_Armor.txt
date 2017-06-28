@@ -1,0 +1,8 @@
+Chiss Phalanx Trooper Duraplast Armor
+-------------------------------------
+Cena: 2200 Credits
+Material: Duraplast
+Armor: Energy: 23
+       Kinetic: 18
+Special Attributes: Squad Target Marker Software 
+                    Thermovission

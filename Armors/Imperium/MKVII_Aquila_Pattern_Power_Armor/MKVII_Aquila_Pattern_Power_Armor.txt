@@ -1,0 +1,9 @@
+MK.VII Aquila Pattern Power Armor
+----------------------------------
+Cena: 10000 Credits
+Material: Adamantium, Ceramite
+Armor: Energy: 40
+       Kinetic: 40
+Special Attributes: +6 Síla
+                    -1 Obratnost
+                    Potøeba genetická modifikace "Gene seed"
