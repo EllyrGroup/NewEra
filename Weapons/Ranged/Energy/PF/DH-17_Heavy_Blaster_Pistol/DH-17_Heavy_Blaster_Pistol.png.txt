@@ -7,7 +7,7 @@ Mag Size: 17
 Firing Modes: Semi-Auto, Stun
 Firing Ranges: Short
                Mid (-10 Aim)
-Damage: 20
+Damage: 25
 Penetrace: 0
 Attachments: Miøídla (Default)
              Basic Scope - 1x-2x Zoom (+50 Credits, -0 Aim Mid Range)

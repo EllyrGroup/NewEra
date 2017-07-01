@@ -1,0 +1,14 @@
+Plasma Pistol
+-------------
+Cena: 2000 Credits
+Damage Type: Energy
+Weapon Type: Pistol
+Firing Modes: Semi-Auto
+Mag Size: 10
+Firing Ranges: Short
+               Mid (-10 Aim)
+Damage: 50
+Penetrace: 1
+Attachments: Míøidla (Default)
+             Red-Dot Sight (+90 Credits, +5 Aim) 
+Special Atributes: Minimální potøebná síla: 7

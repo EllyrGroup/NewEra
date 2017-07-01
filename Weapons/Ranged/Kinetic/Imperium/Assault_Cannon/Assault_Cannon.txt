@@ -1,0 +1,14 @@
+Assault Cannon
+----------------
+Cena: 4500 Credits
+Damage Type: Kinetic (Balistic)
+Weapon Type: Heavy Weapon
+Mag Size: 250
+Firing Modes: Full-Auto 
+Firing Ranges: Short (+5 Aim)
+               Mid (-5 DMG)
+               Long (-5 Aim, -10 DMG)
+Damage: 70
+Penetrace: 2
+Attachments: None
+Special Atributes: Kompatibilní pouze s Indomitus Pattern Terminator Armor

@@ -8,7 +8,7 @@ Firing Modes: Semi-Auto, Full-Auto, Stun
 Firing Ranges: Short (+5 Aim)
                Mid
                Long (-10 Aim, -10DMG)
-Damage: 28
+Damage: 33
 Penetrace: 0
 Attachments: Míøidla (Default)
              Scope - 1x-2x Zoom (+50 Credits, +5 Aim)

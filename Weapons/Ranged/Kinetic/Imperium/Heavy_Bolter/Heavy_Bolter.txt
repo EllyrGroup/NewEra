@@ -1,0 +1,15 @@
+Heavy Bolter
+------------
+Cena: 4000 Credits
+Damage Type: Kinetic (Balistic)
+Weapon Type: SAW (Squad Automatic Weapon)
+Mag Size: 400 (Externí Nábojový Batoh)
+Firing Modes: Semi-Auto, Full-Auto
+Firing Ranges: Short
+               Mid (-5 DMG)
+               Long (-5 Aim, -10 DMG)
+Damage: 65
+Penetrace: 2
+Attachments: None
+Special Atributes: Minimální potøebná síla: 12
+Možnost Gun Emplacement verze - Posádka: 3

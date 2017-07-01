@@ -1,14 +1,14 @@
 Armagedon-Pattern Autogun
 --------------------------
 Cena: 500 Credits
-Damage Type: Kinetic
+Damage Type: Kinetic (Balistic)
 Weapon Type: Rifle
 Mag Size: 30
 Firing Modes: Semi-Auto, Full-Auto
 Firing Ranges: Short
                Mid (+5 Aim, -5 DMG)
                Long (-5 Aim, -10 DMG)
-Damage: 23
+Damage: 28
 Penetrace: 0
 Attachments: Míøidla (Default)
              Red-Dot Sight (+40 Credits, +5 Aim) 

@@ -7,7 +7,7 @@ Mag Size: 15
 Firing Modes: Semi-Auto
 Firing Ranges: Short
                Mid (-10 Aim)
-Damage: 11
+Damage: 16
 Penetrace: 0
 Attachments: Míøidla (Default)
              Red-Dot Sight (+80 Credits, +5 Aim)

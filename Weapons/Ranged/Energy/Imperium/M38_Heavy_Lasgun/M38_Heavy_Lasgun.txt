@@ -8,7 +8,7 @@ Firing Modes: Semi-Auto, Full-Auto
 Firing Ranges: Short (+5 Aim)
                Mid
                Long (-10 Aim, -5DMG)
-Damage: 22
+Damage: 27
 Penetrace: 0
 Attachments: Míøidla (Default)
              Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah + Negace Aim Penalizace pøi Short-Burst a Long-Burst)

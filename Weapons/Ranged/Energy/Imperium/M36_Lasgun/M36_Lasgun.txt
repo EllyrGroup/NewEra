@@ -8,7 +8,7 @@ Firing Modes: Semi-Auto, Full-Auto
 Firing Ranges: Short
                Mid (+5 Aim)
                Long (-5 Aim, -5 DMG)
-Damage: 22
+Damage: 27
 Penetrace: 0
 Attachments: Míøidla (Default)
              Red-Dot Sight (+80 Credits, +5 Aim) 
