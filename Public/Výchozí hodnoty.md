@@ -2,7 +2,7 @@
 
 ### Stata
 
-|| Vytalita | Síla | Obratnost | Vnímavost | Inteligence | Šarm |
+|| Vitalita | Síla | Obratnost | Vnímavost | Inteligence | Šarm |
 |-|-|-|-|-|-|-|
 |**Člověk**| 0 | 0 | 0 | 0 | 0 | 0 |
 |**Rodian**| -20 | -2 | 2 | 1 | 0 | 0 |
