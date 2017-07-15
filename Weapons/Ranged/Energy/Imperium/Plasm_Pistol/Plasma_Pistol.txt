@@ -1,6 +1,6 @@
 Plasma Pistol
 -------------
-Cena: 2000 Credits
+Cena: 3000 Credits
 Damage Type: Energy
 Weapon Type: Pistol
 Firing Modes: Semi-Auto

@@ -1,6 +1,6 @@
 Plasma Gun
 ----------
-Cena: 3000 Credits
+Cena: 4000 Credits
 Damage Type: Energy
 Weapon Type: Rifle
 Mag Size: 20

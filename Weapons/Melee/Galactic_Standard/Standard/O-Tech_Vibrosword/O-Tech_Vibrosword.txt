@@ -1,5 +1,5 @@
 O-Tech Vibrosword
 ------------------
-Cena: 360 Credits
+Cena: 730 Credits
 Weapon Type: Sword
 Damage: 28

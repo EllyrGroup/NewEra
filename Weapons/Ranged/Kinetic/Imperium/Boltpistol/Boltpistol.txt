@@ -1,6 +1,6 @@
 Boltpistol
 ----------
-Cena: 1200 Credits
+Cena: 2200 Credits
 Damage Type: Kinetic (Balistic)
 Weapon Type: Pistol
 Mag Size: 20

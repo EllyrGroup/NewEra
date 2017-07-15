@@ -1,6 +1,6 @@
 E-Web Heavy Repeating Blaster
 ------------------------------
-Cena: 3750 Credits
+Cena: 4750 Credits
 Damage Type: Energy
 Weapon Type: Heavy Weapon
 Mag Size: 5000

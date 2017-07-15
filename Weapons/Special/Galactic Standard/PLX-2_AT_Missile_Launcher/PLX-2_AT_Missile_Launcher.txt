@@ -1,0 +1,8 @@
+PLX-2 AT Missile Launcher
+--------------------------
+Cena: 3700 Credits
+Firing Ranges: Short
+               Mid
+               Long
+Damage: 350
+Penetrace: 6

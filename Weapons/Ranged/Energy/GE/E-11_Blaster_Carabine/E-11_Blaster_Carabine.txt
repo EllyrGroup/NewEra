@@ -1,6 +1,6 @@
 E-11 Blaster Carabine
 ----------------------
-Cena: 1000 Credits
+Cena: 2000 Credits
 Damage Type: Energy
 Weapon Type: Carabine
 Mag Size: 30

@@ -1,6 +1,6 @@
 SE-14 Blaster Pistol
 --------------------
-Cena: 450 Credits
+Cena: 1450 Credits
 Damage Type: Energy
 Weapon Type: Pistol
 Mag Size: 10

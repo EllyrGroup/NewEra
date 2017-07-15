@@ -1,5 +1,5 @@
 Baktoid Vibrosword
 -------------------
-Cena: 300 Credits
+Cena: 600 Credits
 Weapon Type: Sword
 Damage: 25

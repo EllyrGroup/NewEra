@@ -1,6 +1,6 @@
 E-5 Blaster Carabine
 ---------------------
-Cena: 850 Credits
+Cena: 1850 Credits
 Damage Type: Energy
 Weapon Type: Carabine
 Mag Size: 30

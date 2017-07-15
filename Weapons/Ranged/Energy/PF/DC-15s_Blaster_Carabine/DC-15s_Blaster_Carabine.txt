@@ -1,6 +1,6 @@
 DC-15s Blaster Carabine
 ------------------------
-Cena: 1100 Credits
+Cena: 2100 Credits
 Damage Type: Energy
 Weapon Type: Carabine
 Mag Size: 30

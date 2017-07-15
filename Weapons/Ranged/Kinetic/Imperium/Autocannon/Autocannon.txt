@@ -1,6 +1,6 @@
 Autocannon
 -----------
-Cena: 2500 Credits
+Cena: 3500 Credits
 Damage Type: Kinetic (Balistic)
 Eapon Type: Heavy Weapon
 Mag Size: 10

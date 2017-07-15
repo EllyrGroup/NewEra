@@ -1,6 +1,6 @@
 T-21B Repeating Blaster
 -----------------------
-Cena: 1075 Credits
+Cena: 2075 Credits
 Damage Type: Energy 
 Weapon Type: SAW (Squad Automatic Weapon)
 Mag Size: 75

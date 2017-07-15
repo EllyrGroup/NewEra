@@ -1,6 +1,6 @@
 EE-3 Repeating Blaster
 -----------------------
-Cena: 1150 Credits
+Cena: 2150 Credits
 Damage Type: Energy
 Weapon Type: SAW (Squad Automatic Weapon)
 Mag Size: 1000 (Externí batohový Power/Gas Pack)

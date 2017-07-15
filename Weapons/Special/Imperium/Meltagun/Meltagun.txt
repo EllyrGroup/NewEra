@@ -1,0 +1,6 @@
+Meltagun
+--------
+Cena: 3300 Credits
+Firing Ranges: Short
+Damage: 400
+Penetrace: 7

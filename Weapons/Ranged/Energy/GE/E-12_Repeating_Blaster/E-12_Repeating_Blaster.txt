@@ -1,6 +1,6 @@
 E-12 Repeating Blaster
 ------------------------
-Cena: 1350 Credits
+Cena: 2350 Credits
 Damage Type: Energy
 Weapon Type: SAW (Squad Automatic Weapon)
 Mag Size: 50

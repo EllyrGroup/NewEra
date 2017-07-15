@@ -1,0 +1,8 @@
+Thermal Detonator
+-----------------
+Cena: 390 Credits
+Firing Ranges: Short
+               Mid
+Damage: 70
+Penetrace: 0
+Special Attributes: Knockback

@@ -1,6 +1,6 @@
 A280 Blaster Rifle
 -------------------
-Cena: 1150 Credits
+Cena: 2150 Credits
 Damage Type: Energy
 Weapon Type: Rifle
 Mag Size: 35

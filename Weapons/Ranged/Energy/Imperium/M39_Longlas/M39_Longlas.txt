@@ -1,6 +1,6 @@
 M39 Longlas
 ------------
-Cena: 900 Credits
+Cena: 1900 Credits
 Damage Type: Energy
 Weapon Type: Sniper Rifle
 Mag Size: 15

@@ -1,6 +1,6 @@
 DM12A1 Shardgun
 ---------------
-Cena: 950 Credits
+Cena: 1950 Credits
 Damage Type: Kinetic (Electromagnetic)
 Weapon Type: Shotgun
 Mag Size: 8

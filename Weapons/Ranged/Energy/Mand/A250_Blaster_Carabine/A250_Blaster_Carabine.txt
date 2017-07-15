@@ -1,6 +1,6 @@
 A250 Blaster Carabine
 ----------------------
-Cena: 980 Credits
+Cena: 1980 Credits
 Damage Type: Energy
 Weapon Type: Carabine
 Mag Size: 25

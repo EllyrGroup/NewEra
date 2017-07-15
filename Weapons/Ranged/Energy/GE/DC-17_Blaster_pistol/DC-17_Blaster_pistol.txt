@@ -1,6 +1,6 @@
 DC-17 Blaster Pistol
 ---------------------
-Cena: 500 Credits
+Cena: 1500 Credits
 Damage Type: Energy
 Weapon Type: Pistol
 Mag Size: 17

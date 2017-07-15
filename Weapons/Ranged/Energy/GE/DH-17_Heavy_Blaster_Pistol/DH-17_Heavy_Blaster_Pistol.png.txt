@@ -1,6 +1,6 @@
 DH-17 Heavy Blaster Pistol
 ---------------------------
-Cena: 650 Credits
+Cena: 1650 Credits
 Damage Type: Energy
 Weapon Type: Pistol
 Mag Size: 17

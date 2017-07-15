@@ -1,6 +1,6 @@
 DLT-20 Blaster Sniper Rifle
 ----------------------------
-Cena: 1300 Credits
+Cena: 2300 Credits
 Damage Type: Energy
 Weapon Type: Siper Rifle
 Mag Size: 10

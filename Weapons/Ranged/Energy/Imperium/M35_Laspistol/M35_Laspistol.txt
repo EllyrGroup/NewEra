@@ -1,6 +1,6 @@
 M35 Laspistol
 --------------
-Cena: 500 Credits
+Cena: 1300 Credits
 Damage Type: Energy
 Weapon Type: Pistol
 Mag Size: 15

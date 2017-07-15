@@ -1,6 +1,6 @@
 M37 Lascarabine
 ------------
-Cena: 750 Credits
+Cena: 1750 Credits
 Damage Type: Energy
 Weapon Type: Carabine
 Mag Size: 50

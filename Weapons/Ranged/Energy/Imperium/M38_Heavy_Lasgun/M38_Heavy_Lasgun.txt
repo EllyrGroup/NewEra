@@ -1,6 +1,6 @@
 M38 Heavy Lasgun
 -----------------
-Cena: 800 Credits
+Cena: 1800 Credits
 Damage Type: Energy
 Weapon Type: SAW (Squad Automatic Weapon)
 Mag Size: 100

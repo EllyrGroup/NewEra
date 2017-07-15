@@ -1,6 +1,6 @@
 Armagedon-Pattern Autogun
 --------------------------
-Cena: 500 Credits
+Cena: 1500 Credits
 Damage Type: Kinetic (Balistic)
 Weapon Type: Rifle
 Mag Size: 30

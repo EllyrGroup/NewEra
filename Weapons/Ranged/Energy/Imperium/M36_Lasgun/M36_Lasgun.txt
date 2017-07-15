@@ -1,6 +1,6 @@
 M36 Lasgun
 ------------
-Cena: 750 Credits
+Cena: 1750 Credits
 Damage Type: Energy
 Weapon Type: Rifle
 Mag Size: 50

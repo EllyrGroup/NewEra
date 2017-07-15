@@ -1,0 +1,6 @@
+Melta Bomb
+-----------
+Cena: 450 Credits
+Firing Ranges: Short
+Damage: 200
+Pentrace: 6

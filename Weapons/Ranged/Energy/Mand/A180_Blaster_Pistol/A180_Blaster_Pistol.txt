@@ -1,6 +1,6 @@
 A180 Blaster Pistol
 --------------------
-Cena: 600 Credits
+Cena: 1600 Credits
 Damage Type: Energy
 Waepon Type: Pistol
 Mag Size: 18

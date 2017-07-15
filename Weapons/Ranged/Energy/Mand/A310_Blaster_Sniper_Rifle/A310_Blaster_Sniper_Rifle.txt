@@ -1,6 +1,6 @@
 A310 Blaster Sniper Rifle
 --------------------------
-Cena: 1450 Credits
+Cena: 2450 Credits
 Damage Type: Energy
 Weapon Type: Sniper Rifle
 Mag Size: 5

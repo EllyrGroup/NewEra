@@ -1,6 +1,6 @@
 DC15a Blaster Marksman Rifle
 -----------------------------
-Cena: 1600 Credits
+Cena: 2600 Credits
 Damage Type: Energy
 Weapon Type: Rifle
 Mag Size: 20

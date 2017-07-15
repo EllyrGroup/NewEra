@@ -1,6 +1,6 @@
 Bolter
 -------
-Cena: 3000 Credits
+Cena: 4000 Credits
 Damage Type: Kinetic (Balistic)
 Weapon Type: Rifle
 Mag Size: 30

@@ -1,0 +1,8 @@
+Takharian Grenade Launcher
+---------------------------
+Cena: 1500 Credits
+Firing Ranges: Short
+               Mid
+               Long
+Damage: Urèen dle typu granátu
+Penetrace: Urèena dle typu granátu

@@ -1,6 +1,6 @@
 E-22 Blaster Rifle
 -------------------
-Cena: 1500 Credits
+Cena: 2500 Credits
 Damage Type: Energy
 Weapon Type: Rifle
 Mag Size: 30

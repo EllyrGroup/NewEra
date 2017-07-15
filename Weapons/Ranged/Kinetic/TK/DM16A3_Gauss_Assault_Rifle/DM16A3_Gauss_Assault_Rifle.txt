@@ -1,6 +1,6 @@
 DM16A3 Gauss Assault Rifle
 ---------------------------
-Cena: 1200 Credits
+Cena: 2200 Credits
 Damage Type: Kinetic (Electromagnetic)
 Weapon Type: Rifle
 Mag Size: 30

@@ -1,6 +1,6 @@
 DM9A3 Gauss Pistol
 -------------------
-Cena: 550 Credits
+Cena: 1550 Credits
 Damage Type: Kinetic (Electromagnetic)
 Weapon Type: Pistol
 Mag Size: 15

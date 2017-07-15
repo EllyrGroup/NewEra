@@ -1,6 +1,6 @@
 Kronus-Pattern Autogun
 -----------------------
-Cena: 550 Credits
+Cena: 1550 Credits
 Damage Type: Kinetic (Balistic)
 Weapon Type: Rifle
 Mag Size: 30
