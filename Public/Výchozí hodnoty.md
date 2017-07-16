@@ -12,6 +12,7 @@
 |**Neimodian**| 10 | 0 | 0 | 1 | 0 | -3 |
 |**Takharian**| 10 | 0 | 1 | 1 | -1 | 0 |
 |**Chiss**| 0 | 0 | 0 | 0 | 2 | -1 |
+|**Synth**| 60 | 3 | 1 | 2 | 0 | -8 |
 
 ### Síly
 
@@ -25,6 +26,7 @@
 |**Neimodian**| 1 | 0 | 0 |
 |**Takharian**| 1 | 1 | 0 |
 |**Chiss**| 1 | 1 | 2 |
+|**Synth**| 0 | 0 | 0 |
 
 ### Speciální rasové schopnosti
 
@@ -38,3 +40,4 @@
 |**Neimodian**| X | X | X |
 |**Takharian**| X | X | O |
 |**Chiss**| X | X | X |
+|**Synth**| X | X | X |
