@@ -8,6 +8,6 @@ Firing Modes: Firing Modes: Semi-Auto, Full-Auto
 Firing Ranges: Short
                Mid (-5 DMG)
                Long (-5 Aim, -10 DMG)
-Damage: 55
+Damage: 65
 Penetrace: 3
 Attachments: None
