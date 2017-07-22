@@ -1,6 +1,6 @@
 Mandalorian Steel Armor
 ------------------------
-Cena: 2750 Credits
+Cena: 3750 Credits
 Material: Mandalorian Steel
 Armor: Energy: 26
        Kinetic: 26

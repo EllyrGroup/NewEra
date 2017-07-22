@@ -1,6 +1,6 @@
 Scout Marine Armor
 -------------------
-Cena: 4500 Credits
+Cena: 5100 Credits
 Material: Ceramite, Adamantium
 Armor: Energy: 27
        Kinetic: 27

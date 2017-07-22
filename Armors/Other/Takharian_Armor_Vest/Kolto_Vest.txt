@@ -1,6 +1,6 @@
 Kolto Vest
 ----------
-Cena: 1200 Credits
+Cena: 2000 Credits
 Material: Synthetic fibre
 Armor: Energy: 0
        kinetic: 0

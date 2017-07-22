@@ -1,6 +1,6 @@
 Republic Trooper Plastoid Armor
 --------------------------------
-Cena: 1400 Credits
+Cena: 2400 Credits
 Material: Plastoid
 Armor: Energy: 15
        Kinetic: 10

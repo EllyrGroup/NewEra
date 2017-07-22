@@ -1,6 +1,6 @@
 Takharian Alloy Armor
 ---------------------
-Cena: 2000 Credits
+Cena: 3000 Credits
 Material: Alloy
 Armor: Energy: 10
        Kinetic: 22

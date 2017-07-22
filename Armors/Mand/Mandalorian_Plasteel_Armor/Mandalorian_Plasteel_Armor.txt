@@ -1,6 +1,6 @@
 Mandalorian Plasteel Armor
 --------------------------
-Cena: 2400 Credits 
+Cena: 3400 Credits 
 Material: Platoid, Mandalorian Steel
 Armor: Energy: 24
        Kinetic: 21

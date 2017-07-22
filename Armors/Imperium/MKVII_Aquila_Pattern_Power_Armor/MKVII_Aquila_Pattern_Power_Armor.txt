@@ -1,6 +1,6 @@
 MK.VII Aquila Pattern Power Armor
 ----------------------------------
-Cena: 10000 Credits
+Cena: 12000 Credits
 Material: Adamantium, Ceramite
 Armor: Energy: 40
        Kinetic: 40

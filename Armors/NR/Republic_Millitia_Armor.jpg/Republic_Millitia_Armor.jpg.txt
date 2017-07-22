@@ -1,6 +1,6 @@
 Republic Millitia Armor
 ------------------------
-Cena: 1100 Credits
+Cena: 2100 Credits
 Material: Plastoid, Laminoid
 Armor: Energy: 13
        Kinetic: 8

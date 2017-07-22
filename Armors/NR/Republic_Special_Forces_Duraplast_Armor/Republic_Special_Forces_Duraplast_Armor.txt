@@ -1,6 +1,6 @@
 Republic Special Forces Duraplast Armor
 ----------------------------------------
-Cena: 2500 Credits
+Cena: 3500 Credits
 Material: Duraplast
 Armor: Energy: 26
        Kinetic: 21

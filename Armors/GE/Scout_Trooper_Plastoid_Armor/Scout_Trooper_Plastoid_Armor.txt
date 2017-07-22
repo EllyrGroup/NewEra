@@ -1,6 +1,6 @@
 Scout Trooper Plastoid Armor
 -----------------------------
-Cena: 1900 Credits
+Cena: 2900 Credits
 Material: Plastoid
 Armor: 15
 Special Attributes: Squad Target Marker Software

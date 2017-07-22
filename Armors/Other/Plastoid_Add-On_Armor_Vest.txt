@@ -1,6 +1,6 @@
 Plastoid Add-On Armor Vest
 ---------------------------
-Cena: 450 Credits
+Cena: 950 Credits
 Material: Plastoid, Synthetic Fibre
 Armor: Energy: +5
        Kinetic: +2

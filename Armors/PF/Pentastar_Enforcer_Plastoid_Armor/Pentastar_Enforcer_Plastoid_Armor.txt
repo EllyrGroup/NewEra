@@ -1,6 +1,6 @@
 Pentastar Enforcer Plastoid Armor
 ---------------------------------
-Cena: 1200 Credits
+Cena: 2200 Credits
 Material: Plastoid
 Armor: Energy: 14
        Kinetic: 9

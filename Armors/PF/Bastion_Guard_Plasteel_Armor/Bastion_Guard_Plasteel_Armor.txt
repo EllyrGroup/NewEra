@@ -1,6 +1,6 @@
 Bastion Guard Plasteel Armor
 -----------------------------
-Cena: 2300 Credits
+Cena: 3300 Credits
 Material: Plastoid, Durasteel
 Armor: Energy: 23
        Kinetic: 20

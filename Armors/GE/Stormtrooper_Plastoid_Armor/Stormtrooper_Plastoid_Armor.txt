@@ -1,6 +1,6 @@
 Stormtrooper Plastoid Armor
 ----------------------------
-Cena: 2000 Credits
+Cena: 3000 Credits
 Material: Plastoid
 Armor: Energy: 20
        Kinetic: 15

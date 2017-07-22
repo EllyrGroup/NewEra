@@ -1,6 +1,6 @@
 Pentastar Scout Trooper Plastoid Armor
 --------------------------------------
-Cena: 2100 Credits
+Cena: 3100 Credits
 Material: Plastoid
 Armor: Energy: 16
        Kinetic: 11

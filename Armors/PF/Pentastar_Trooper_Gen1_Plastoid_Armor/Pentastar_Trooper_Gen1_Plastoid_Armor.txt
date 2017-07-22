@@ -1,6 +1,6 @@
 Pentastar Trooper Gen1 Plastoid Armor
 -------------------------------------
-Cena: 1900
+Cena: 2900
 Material: Plastoid
 Armor: Energy: 19
        Kinetic: 14

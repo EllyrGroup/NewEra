@@ -1,6 +1,6 @@
 Confederacy Militia Plastoid Armor
 -----------------------------------
-Cena: 1500 Credits
+Cena: 2500 Credits
 Material: Plastoid
 Armor: Energy: 16
        Kinetic: 11

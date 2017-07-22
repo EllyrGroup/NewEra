@@ -1,6 +1,6 @@
 Laminoid Padded Officer Uniform
 --------------------------------
-Cena: 200 Credits
+Cena: 850 Credits
 Material: Synthetic fibre, Laminoid
 Armor: Energy: 3
        Kinetic: 1
