@@ -1,0 +1,6 @@
+Imperial Guardsman Flak Armour
+--------------------------
+Cena: 2000 Credits
+Material: Ceramite
+Armor: Energy: 12
+       Kinetic: 7

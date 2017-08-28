@@ -1,0 +1,10 @@
+Pentastar Scout Trooper Plastoid Armor
+--------------------------------------
+Cena: 3100 Credits
+Material: Plastoid
+Armor: Energy: 16
+       Kinetic: 11
+Special Attributes: Squad Target Marker Software 
+                    Thermovission
+                    Combat Awarness Software (+1 Vnímavost)
+                    Aim Assist Software (+5 Aim)

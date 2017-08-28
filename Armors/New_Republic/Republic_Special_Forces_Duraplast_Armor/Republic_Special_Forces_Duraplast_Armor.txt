@@ -1,0 +1,9 @@
+Republic Special Forces Duraplast Armor
+----------------------------------------
+Cena: 3500 Credits
+Material: Duraplast
+Armor: Energy: 26
+       Kinetic: 21
+Squad Target Marker Software 
+                    Thermovission
+                    Aim Assist Software (+5 Aim)

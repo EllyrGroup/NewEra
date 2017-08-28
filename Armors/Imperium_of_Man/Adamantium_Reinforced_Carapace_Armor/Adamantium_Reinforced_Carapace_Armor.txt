@@ -1,0 +1,6 @@
+Adamantium Reinforced Carapace Armor
+------------------------------------
+Cena: 2400 Creidts
+Material: Ceramite, Adamantium
+Armor: Energy: 17
+       Kinetic: 15
