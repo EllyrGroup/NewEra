@@ -1,0 +1,17 @@
+Imperium Autoshotgun
+---------------------
+Cena: 1500 Credits
+Damage Type: Kinetic (Balistic)
+Weapon Type: Shotgun
+Mag Size: 20
+Firing Modes: Semi-Auto, Full-Auto
+Firing Ranges: Short
+               Mid (-10 Aim, -10 DMG)
+Damage: 35
+Penetrace: 0
+Attachments: Míøidla (Default)
+             Red-Dot Sight (+80 Credits, +5 Aim) 
+             Bayonet (+50 Credits, Damage: 15)
+Special Atributes: None
+             
+             

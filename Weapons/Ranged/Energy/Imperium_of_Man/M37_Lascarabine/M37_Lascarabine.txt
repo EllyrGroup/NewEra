@@ -1,0 +1,18 @@
+M37 Lascarabine
+------------
+Cena: 1750 Credits
+Damage Type: Energy
+Weapon Type: Carabine
+Mag Size: 50
+Firing Modes: Semi-Auto, Full-Auto
+Firing Ranges: Short (+5 Aim)
+               Mid
+               Long (-10 Aim, -5 DMG)
+Damage: 26
+Penetrace: 0
+Attachments: Míøidla (Default)
+             Red-Dot Sight (+80 Credits, +5 Aim) 
+             Expanded Mag (+70 Credits, +15 Mag Size)
+             Bayonet (+50 Credits, Damage: 15)
+             Beam Focusing Muzzle (+250 Credits, +5 DMG)
+Special Atributes: +3 Crit Chance 

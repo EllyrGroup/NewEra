@@ -1,0 +1,13 @@
+Autocannon
+-----------
+Cena: 3500 Credits
+Damage Type: Kinetic (Balistic)
+Eapon Type: Heavy Weapon
+Mag Size: 10
+Firing Modes: Firing Modes: Semi-Auto, Full-Auto
+Firing Ranges: Short
+               Mid (-5 DMG)
+               Long (-5 Aim, -10 DMG)
+Damage: 65
+Penetrace: 3
+Attachments: None
