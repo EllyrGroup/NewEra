@@ -1,0 +1,8 @@
+Imperial PDF (Planetary Defense Force) Armor
+--------------------------------------------
+Cena: 2450 Credits
+Material: Plastoid, Laminoid
+Armor: Energy: 16
+       Kinetic: 9
+Special Attributes: Squad Target Marker Software
+                    Thermovission

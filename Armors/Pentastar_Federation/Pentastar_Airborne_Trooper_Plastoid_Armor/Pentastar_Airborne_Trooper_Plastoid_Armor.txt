@@ -1,0 +1,9 @@
+Pentastar Airborne Trooper Plastoid Armor
+------------------------------------------
+Cena: 3400 Credits
+Material: Plastoid
+Armor: Energy: 22
+       Kinetic: 17
+Special Attributes: Squad Target Marker Software 
+                    Thermovission
+                    Jetpack

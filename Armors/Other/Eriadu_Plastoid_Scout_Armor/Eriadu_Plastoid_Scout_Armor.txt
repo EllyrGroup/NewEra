@@ -1,0 +1,8 @@
+Eriadu Plastoid Scout Armor
+---------------------------
+Cena: 2800 Credits
+Material: Plastoid
+Armor: 14
+Special Attributes: Squad Target Marker Software
+        Thermovission
+        Combat Awarness Software (+1 Vnímavost)

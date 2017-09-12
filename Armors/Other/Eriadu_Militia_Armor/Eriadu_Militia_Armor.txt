@@ -1,0 +1,7 @@
+Eriadu Militia Armor
+--------------------
+Cena: 2400 Credits
+Material: Plastoid
+Armor: Energy: 15
+       Kinetic: 9
+Special Attributes: Squad Target Marker Software 
