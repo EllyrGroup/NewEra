@@ -7,3 +7,4 @@ Armor: Energy: 15
 Special Attributes: Squad Target Marker Software
                     Thermovission
                     Personal Shield (Výdrž 80)
+                    Obratnost -1
