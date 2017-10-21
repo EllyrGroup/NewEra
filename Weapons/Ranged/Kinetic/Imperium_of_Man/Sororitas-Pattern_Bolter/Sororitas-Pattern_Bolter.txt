@@ -1,4 +1,4 @@
-Sororitas-Pattern Bolter
+ï»¿Sororitas-Pattern Bolter
 -------------------------
 Cena: 3000 Credits
 Damage Type: Kinetic (Balistic)
@@ -10,10 +10,10 @@ Firing Ranges: Short
                Long (-5 Aim, -10 DMG)
 Damage: 50
 Penetrace: 0
-Attachments: Míøidla (Default)
+Attachments: MÃ­Å™idla (Default)
              Red Dot Sight (+80 Credits, +5 Aim)
              Scope - 3,4x Zoom (180 Credits, -0 Aim Long Range,  -10 Aim Short Range)
              Drum Mag (+100 Credits, +20 Mag Size)
              Double Drum Mag (+200 Credits, +70 Mag Size) 
              Bayonet (+100 Credits, Damage: 20)
-Special Atributes: Potøebná minimální síla: 10
+Special Atributes: PotÅ™ebnÃ¡ minimÃ¡lnÃ­ sÃ­la: 10

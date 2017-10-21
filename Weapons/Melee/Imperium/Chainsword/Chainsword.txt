@@ -1,7 +1,7 @@
-Chainsword
+ï»¿Chainsword
 ----------
 Cena: 1900 Credits
 Weapon Type: Sword
 Damage: 50
-Special Attributes: Minimální síla: 5
-                    Poškozuje konvenèní zbranì na blízko
+Special Attributes: MinimÃ¡lnÃ­ sÃ­la: 5
+                    PoÅ¡kozuje konvenÄnÃ­ zbranÄ› na blÃ­zko

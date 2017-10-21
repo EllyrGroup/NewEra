@@ -1,9 +1,9 @@
-Plasma Cannon
+ÔªøPlasma Cannon
 --------------
 Cena: 5000 Credits
 Damage Type: Energy
 Weapon Type: Heavy Weapon
-Mag Size: 100 (ExternÌ Zdroj)
+Mag Size: 100 (Extern√≠ Zdroj)
 Firing Modes: Semi-Auto
 Firing Ranges: Short
                Mid (+5 Aim)
@@ -11,5 +11,5 @@ Firing Ranges: Short
 Damage: 80
 Penetrace: 3
 Attachments: None
-Special Atributes: Minim·lnÌ pot¯ebn· sÌla: 12
-Moûnost Gun Emplacement verze - Pos·dka: 3
+Special Atributes: Minim√°ln√≠ pot≈ôebn√° s√≠la: 12
+Mo≈ænost Gun Emplacement verze - Pos√°dka: 3

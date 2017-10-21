@@ -1,4 +1,4 @@
-M38 Heavy Lasgun
+ï»¿M38 Heavy Lasgun
 -----------------
 Cena: 1800 Credits
 Damage Type: Energy
@@ -10,10 +10,10 @@ Firing Ranges: Short (+5 Aim)
                Long (-10 Aim, -5DMG)
 Damage: 27
 Penetrace: 0
-Attachments: Míøidla (Default)
-             Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah + Negace Aim Penalizace pøi Short-Burst a Long-Burst)
+Attachments: MÃ­Å™idla (Default)
+             Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah + Negace Aim Penalizace pÅ™i Short-Burst a Long-Burst)
              Red-Dot Sight (+80 Credits, +5 Aim) 
              Scope - 3,4x Zoom (+120 Credits, +5 Crit Chance, -0 Aim Long Range, -10 Aim Short Range)
              Beam Focusing Muzzle (+250 Credits, +5 DMG)
-             Advanced Stock (+100 Credits, -1 Aim Penalizace pøi Short-Burst a Long-Burst)
+             Advanced Stock (+100 Credits, -1 Aim Penalizace pÅ™i Short-Burst a Long-Burst)
 Special Atributes: None

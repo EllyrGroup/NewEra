@@ -1,4 +1,4 @@
-DC-17 Blaster Pistol
+﻿DC-17 Blaster Pistol
 ---------------------
 Cena: 1500 Credits
 Damage Type: Energy

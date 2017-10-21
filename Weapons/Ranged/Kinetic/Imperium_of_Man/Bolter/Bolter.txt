@@ -1,4 +1,4 @@
-Bolter
+ï»¿Bolter
 -------
 Cena: 4000 Credits
 Damage Type: Kinetic (Balistic)
@@ -9,11 +9,11 @@ Firing Ranges: Short
                Long (-5 Aim, -10 DMG)
 Damage: 60
 Penetrace: 1
-Attachments: Míøidla (Default)
+Attachments: MÃ­Å™idla (Default)
              Red Dot Sight (+80 Credits, +5 Aim)
              Scope - 3,4x Zoom (+180 Credits, +5 Crit Chance, -0 Aim Long Range, -10 Aim Short Range)
              Drum Mag (+100 Credits, +20 Mag Size)
              Double Drum Mag (+200 Credits, +70 Mag Size)
              Bayonet (+100 Credits, Damage: 20)
-             Advanced Stock (+120 Credits, -1 Aim Penalizace pøi Short-Burst a Long-Burst)
-Special Atributes: Minimální Potøebná Síla: 11
+             Advanced Stock (+120 Credits, -1 Aim Penalizace pÅ™i Short-Burst a Long-Burst)
+Special Atributes: MinimÃ¡lnÃ­ PotÅ™ebnÃ¡ SÃ­la: 11

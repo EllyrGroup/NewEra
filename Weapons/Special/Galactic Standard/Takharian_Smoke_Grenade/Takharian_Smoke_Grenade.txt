@@ -1,4 +1,4 @@
-Takharian Smoke Grenade
+﻿Takharian Smoke Grenade
 ------------------------
 Cena: 250 Credits
 Firing Ranges: Short

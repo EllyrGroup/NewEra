@@ -1,4 +1,4 @@
-M37 Lascarabine
+ï»¿M37 Lascarabine
 ------------
 Cena: 1750 Credits
 Damage Type: Energy
@@ -10,7 +10,7 @@ Firing Ranges: Short (+5 Aim)
                Long (-10 Aim, -5 DMG)
 Damage: 26
 Penetrace: 0
-Attachments: Míøidla (Default)
+Attachments: MÃ­Å™idla (Default)
              Red-Dot Sight (+80 Credits, +5 Aim) 
              Expanded Mag (+70 Credits, +15 Mag Size)
              Bayonet (+50 Credits, Damage: 15)

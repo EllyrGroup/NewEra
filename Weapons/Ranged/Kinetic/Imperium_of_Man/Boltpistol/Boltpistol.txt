@@ -1,4 +1,4 @@
-Boltpistol
+ï»¿Boltpistol
 ----------
 Cena: 2200 Credits
 Damage Type: Kinetic (Balistic)
@@ -9,6 +9,6 @@ Firing Ranges: Short
                Mid (-10 Aim)
 Damage: 40
 Penetrace: 0
-Attachmets: Míøidla (Default)
+Attachmets: MÃ­Å™idla (Default)
             Red-Dot Sight (+80 Credits, +5 Aim)
-Special Atributes: Potøebná minimální síla: 8 
+Special Atributes: PotÅ™ebnÃ¡ minimÃ¡lnÃ­ sÃ­la: 8 

@@ -1,4 +1,4 @@
-A250 Blaster Carabine
+ï»¿A250 Blaster Carabine
 ----------------------
 Cena: 1980 Credits
 Damage Type: Energy
@@ -10,7 +10,7 @@ Firing Ranges: Short (+5 Aim)
                Long (-10 Aim, -10DMG)
 Damage: 36
 Penetrace: 0
-Attachments: Míøidla (-70 Credits, +0 Aim Short Range, -10 Mid Range, -20 Aim Long Range)
+Attachments: MÃ­Å™idla (-70 Credits, +0 Aim Short Range, -10 Mid Range, -20 Aim Long Range)
              Basic Scope - 1x-2x Zoom (Default)
              Advanced Scope (+150 Credits, Thermovission, +5 Crit Chance)
              Expanded Mag (+50 Credits, +10 Mag Size)

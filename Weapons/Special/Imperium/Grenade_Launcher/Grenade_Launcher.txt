@@ -1,8 +1,8 @@
-Grenade Launcher
+ï»¿Grenade Launcher
 -----------------
 Cena: 1500 Credits
 Firing Ranges: Short
                Mid
                Long
-Damage: Urèen dle typu granátu
-Penetrace: Urèena dle typu granátu
+Damage: UrÄen dle typu granÃ¡tu
+Penetrace: UrÄena dle typu granÃ¡tu

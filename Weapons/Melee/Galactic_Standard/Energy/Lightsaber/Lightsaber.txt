@@ -1,8 +1,8 @@
-Lightsaber
+ï»¿Dual Lightsaber
 ----------
-Cena: 10000 Credits
+Cena: 14000 Credits
 Weapon Type: Sword
 Damage: 60
-Special Attributes: Znièení veškerıch konveèních zbraní na blízko pøi styku
-        Odráení energetickıch projektilù 
-        50% Armor penetration           
+Special Attributes: ZniÄenÃ­ veÅ¡kerÃ½ch konveÄnÃ­ch zbranÃ­ na blÃ­zko pÅ™i styku
+        OdrÃ¡Å¾enÃ­ energetickÃ½ch projektilÅ¯
+        50% Armor penetration             

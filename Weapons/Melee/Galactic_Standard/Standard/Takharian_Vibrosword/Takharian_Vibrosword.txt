@@ -1,5 +1,5 @@
-Takharian Vibrosword
+﻿Takharian Vibrosword
 ---------------------
-Cena: Neprodejn�
+Cena: Neprodejné
 Weapon Type: Sword
 Damage: 30

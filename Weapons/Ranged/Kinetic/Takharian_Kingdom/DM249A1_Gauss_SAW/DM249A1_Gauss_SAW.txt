@@ -1,4 +1,4 @@
-DM249A1 Gauss SAW
+ï»¿DM249A1 Gauss SAW
 ------------------
 ------------------------
 Cena: 2350 Credits
@@ -11,11 +11,11 @@ Firing Ranges: Short (+5 Aim)
                Long (-10 Aim, -5DMG)
 Damage: 37
 Penetrace: 0
-Attachments: Míøidla (-50 Credits, +0 Aim Short Range, -10 Mid Range, -20 Aim Long Range)
+Attachments: MÃ­Å™idla (-50 Credits, +0 Aim Short Range, -10 Mid Range, -20 Aim Long Range)
              Basic Scope - 1x-2x Zoom (Default)
              Advanced Scope (+100 Credits, Thermovission, +5 Crit Chance)
              Long Range Scope - 2x-5x Zoom (+50 Credits, -10 Aim Short Range, -0 Long Range)
              Advanced Long Range Scope (+150 Cedits, Thermovission)
              Hybrid Scope (+200 Credits, -0 Aim Long Range)
-             Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah + Negace Aim Penalizace pøi Short-Burst a Long-Burst)
+             Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah + Negace Aim Penalizace pÅ™i Short-Burst a Long-Burst)
 Special Atributes: None

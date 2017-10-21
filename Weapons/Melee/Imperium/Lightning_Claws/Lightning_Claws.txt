@@ -1,7 +1,7 @@
-Lightning Claws
+ï»¿Lightning Claws
 ----------------
-Cena: Neprodejné
+Cena: NeprodejnÃ©
 Weapon Type: Special Melee
 Damage: 70
-Special Attributes: Kompatibilní pouze s Indomitus Pattern Terminator Armor
+Special Attributes: KompatibilnÃ­ pouze s Indomitus Pattern Terminator Armor
                     100% armor penetration

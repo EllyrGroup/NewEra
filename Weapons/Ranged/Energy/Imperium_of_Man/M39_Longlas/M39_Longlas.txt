@@ -1,4 +1,4 @@
-M39 Longlas
+ï»¿M39 Longlas
 ------------
 Cena: 1900 Credits
 Damage Type: Energy
@@ -15,4 +15,4 @@ Attachment: Scope - 2x-5x Zoom (Default,)
             Long Range Scope - 3,4x-10x Zoom (+100 Credits, -20 Aim Short Range, +10 Aim Long Range)
             Advanced Long Range Scope (+180 Credits, Thermovission, +5 Crit Chance)
             Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah)
-Special Atributes: Target Marker: Odhalení pozice nepøítele pro spojence s vybavením s možností "Squad Target Marker Software"+10 Aim na "marknutý" cíl
+Special Atributes: None

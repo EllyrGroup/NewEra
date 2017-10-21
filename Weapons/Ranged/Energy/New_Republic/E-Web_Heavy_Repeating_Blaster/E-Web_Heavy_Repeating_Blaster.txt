@@ -1,4 +1,4 @@
-E-Web Heavy Repeating Blaster
+ï»¿E-Web Heavy Repeating Blaster
 ------------------------------
 Cena: 4750 Credits
 Damage Type: Energy
@@ -11,5 +11,5 @@ Firing Ranges: Short (+5 Aim)
 Damage: 20
 Penetrace: 0
 Attachments: Basic Scope - 1x-2x Zoom (Default, Thermovission)
-             Tripod (Default, Negace Aim Penalizace pøi Short-Burst a Long-Burst)
-Special Atributes: V boji nelze pøebít.
+             Tripod (Default, Negace Aim Penalizace pÅ™i Short-Burst a Long-Burst)
+Special Atributes: V boji nelze pÅ™ebÃ­t.

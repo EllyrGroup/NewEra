@@ -1,4 +1,4 @@
-Plasma Pistol
+ï»¿Plasma Pistol
 -------------
 Cena: 3000 Credits
 Damage Type: Energy
@@ -9,6 +9,6 @@ Firing Ranges: Short
                Mid (-10 Aim)
 Damage: 50
 Penetrace: 1
-Attachments: Míøidla (Default)
+Attachments: MÃ­Å™idla (Default)
              Red-Dot Sight (+90 Credits, +5 Aim) 
-Special Atributes: Minimální potøebná síla: 7
+Special Atributes: MinimÃ¡lnÃ­ potÅ™ebnÃ¡ sÃ­la: 7

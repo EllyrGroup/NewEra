@@ -1,4 +1,4 @@
-Takharian Flashbang Grenade
+﻿Takharian Flashbang Grenade
 -----------------------------
 Cena: 280 Credits
 Firing Ranges: Short

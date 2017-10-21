@@ -1,9 +1,9 @@
-EMP Grenade
+ï»¿EMP Grenade
 ------------
 Cena: 400 Credits
 Firing Ranges: Short
                Mid
 Damage: 0
 Penetrace: 0
-Special Attributes: Vyøazení robotickıch jednotek po celou dobu boje
-                    Vyøazení veškeré elektroniky na 2 tahy
+Special Attributes: VyÅ™azenÃ­ robotickÃ½ch jednotek po celou dobu boje
+                    VyÅ™azenÃ­ veÅ¡kerÃ© elektroniky na 2 tahy

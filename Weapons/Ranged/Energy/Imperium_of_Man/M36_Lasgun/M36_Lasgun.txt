@@ -1,4 +1,4 @@
-M36 Lasgun
+ï»¿M36 Lasgun
 ------------
 Cena: 1750 Credits
 Damage Type: Energy
@@ -10,12 +10,12 @@ Firing Ranges: Short
                Long (-5 Aim, -5 DMG)
 Damage: 27
 Penetrace: 0
-Attachments: Míøidla (Default)
+Attachments: MÃ­Å™idla (Default)
              Red-Dot Sight (+80 Credits, +5 Aim) 
              Scope - 3,4x Zoom (+120 Credits, +5 Crit Chance, -0 Aim Long Range, -10 Aim Short Range)
              Grenade Launcher (+250 Credits)
              Expanded Mag (+70 Credits, +15 Mag Size)
              Bayonet (+50 Credits, Damage: 15)
              Beam Focusing Muzzle (+250 Credits, +5 DMG)
-             Advanced Stock (+100 Credits, -1 Aim Penalizace pøi Short-Burst a Long-Burst)
+             Advanced Stock (+100 Credits, -1 Aim Penalizace pÅ™i Short-Burst a Long-Burst)
 Special Atributes: None 
