@@ -1,4 +1,4 @@
-Assault Cannon
+﻿Assault Cannon
 ----------------
 Cena: 4500 Credits
 Damage Type: Kinetic (Balistic)
@@ -11,4 +11,4 @@ Firing Ranges: Short (+5 Aim)
 Damage: 70
 Penetrace: 2
 Attachments: None
-Special Atributes: Kompatibiln� pouze s Indomitus Pattern Terminator Armor
+Special Atributes: Kompatibilní pouze s Indomitus Pattern Terminator Armor

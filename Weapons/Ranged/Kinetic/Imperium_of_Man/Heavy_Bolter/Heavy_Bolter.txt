@@ -1,7 +1,7 @@
 ﻿Heavy Bolter
 ------------
 Cena: 5000 Credits
-Damage Type: Kinetic (Balistic)
+Damage Type: Heavy Kinetic (Conventional)
 Weapon Type: SAW (Squad Automatic Weapon)
 Mag Size: 400 (Externí Nábojový Batoh)
 Firing Modes: Semi-Auto, Full-Auto
@@ -12,4 +12,4 @@ Damage: 65
 Penetrace: 2
 Attachments: None
 Special Atributes: Minimální potřebná síla: 12
-Možnost Gun Emplacement verze - Posádka: 3
+                   Možnost Gun Emplacement verze - Posádka: 3 (Set-up Time: 1 Tah)

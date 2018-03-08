@@ -10,7 +10,6 @@ Firing Ranges: Short
                Long (-5 Aim, -10 DMG)
 Damage: 65
 Penetrace: 2
-Attachments: Mířidla (Default)
-             Red-Dot Sight (+90 Credits, +5 Aim) 
+Attachments: Red-Dot Sight (+90 Credits, +5 Aim) 
              Scope - 3,4x Zoom (+200 Credits, +5 Crit Chance, -0 Aim Long Range, -10 Aim Short Range)
 Special Atributes: Minimální potřebná síla: 9

@@ -1,7 +1,7 @@
 ﻿Boltpistol
 ----------
 Cena: 2200 Credits
-Damage Type: Kinetic (Balistic)
+Damage Type: Heavy Kinetic (Conventional)
 Weapon Type: Pistol
 Mag Size: 20
 Firing Modes: Semi-Auto
@@ -9,6 +9,5 @@ Firing Ranges: Short
                Mid (-10 Aim)
 Damage: 40
 Penetrace: 0
-Attachmets: Mířidla (Default)
-            Red-Dot Sight (+80 Credits, +5 Aim)
+Attachmets: Red-Dot Sight (+80 Credits, +5 Aim)
 Special Atributes: Potřebná minimální síla: 8 

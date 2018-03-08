@@ -11,11 +11,10 @@ Firing Ranges: Short (+5 Aim)
                Long (-10 Aim, -5DMG)
 Damage: 37
 Penetrace: 0
-Attachments: Mířidla (-50 Credits, +0 Aim Short Range, -10 Mid Range, -20 Aim Long Range)
-             Basic Scope - 1x-2x Zoom (Default)
-             Advanced Scope (+100 Credits, Thermovission, +5 Crit Chance)
-             Long Range Scope - 2x-5x Zoom (+50 Credits, -10 Aim Short Range, -0 Long Range)
-             Advanced Long Range Scope (+150 Cedits, Thermovission)
-             Hybrid Scope (+200 Credits, -0 Aim Long Range)
-             Bipod (Default, Steady Hands Ability - +15 Aim, Charge: 1 Tah + Negace Aim Penalizace při Short-Burst a Long-Burst)
-Special Atributes: None
+Attachments: Basic Scope - 1x-2x Zoom (+100 Credits, +5 Aim)
+             Advanced Scope (+150 Credits, Thermovission, +5 Crit Chance)
+             Long Range Scope - 2x-5x Zoom (+100 Credits, -10 Aim Short Range, -0 Long Range)
+             Advanced Long Range Scope (+200 Cedits, Thermovission)
+             Hybrid Scope (+250 Credits, -0 Aim Long Range)
+             
+Special Atributes: Bipod (Steady Hands Ability, Recoil Negace)

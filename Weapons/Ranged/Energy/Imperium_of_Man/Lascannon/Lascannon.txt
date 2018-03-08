@@ -12,4 +12,4 @@ Damage: 90
 Penetrace: 5
 Attachments: None
 Special Atributes: Minimální potřebná síla: 12
-Možnost Gun Emplacement verze - Posádka: 3
+                   Možnost Gun Emplacement verze - Posádka: 3

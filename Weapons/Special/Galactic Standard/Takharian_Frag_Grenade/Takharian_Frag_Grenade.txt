@@ -1,4 +1,4 @@
-Takharian Frag Grenade
+﻿Takharian Frag Grenade
 ----------------------
 Cena: 375 Credits
 Firing Ranges: Short
