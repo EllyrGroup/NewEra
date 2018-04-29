@@ -1,8 +1,0 @@
-PLX-1 AT Missile Launcher
---------------------------
-Cena: 3200 Credis
-Firing Ranges: Short
-               Mid
-               Long
-Damage: 300
-Penetrace: 5

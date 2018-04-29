@@ -1,8 +1,0 @@
-Frag Grenade
------------------
-Cena: 350 Credits
-Firing Ranges: Short
-               Mid
-Damage: 60
-Penetrace: 0
-Special Attributes: Knockback

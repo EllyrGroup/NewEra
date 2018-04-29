@@ -1,8 +1,0 @@
-﻿Takharian Frag Grenade
-----------------------
-Cena: 375 Credits
-Firing Ranges: Short
-               Mid
-Damage: 65
-Penetrace: 0
-Special Attributes: Knockback

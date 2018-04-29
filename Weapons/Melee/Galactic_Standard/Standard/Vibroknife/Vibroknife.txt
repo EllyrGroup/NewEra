@@ -1,5 +1,0 @@
-﻿Vibroknife
-----------
-Cena: 175 Credits
-Weapon Type: Knife
-Damage: 20

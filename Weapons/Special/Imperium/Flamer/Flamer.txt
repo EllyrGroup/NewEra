@@ -1,6 +1,0 @@
-Flamer
-------
-Cena: 2450 Credits
-Firing Ranges: Short
-Damage: 65
-Penetrace: 0

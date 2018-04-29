@@ -1,8 +1,0 @@
-﻿Takharian Smoke Grenade
-------------------------
-Cena: 250 Credits
-Firing Ranges: Short
-               Mid
-Damage: 0
-Penetrace: 0
-Special Attributes: Smoke effect (-20 Aim)

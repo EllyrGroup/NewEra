@@ -1,8 +1,0 @@
-﻿Takharian Flashbang Grenade
------------------------------
-Cena: 280 Credits
-Firing Ranges: Short
-               Mid
-Damage: 0
-Penetrace: 0
-Special Attributes: Dezorientace (1. tah bez akce, 2. tah -10 Aim)

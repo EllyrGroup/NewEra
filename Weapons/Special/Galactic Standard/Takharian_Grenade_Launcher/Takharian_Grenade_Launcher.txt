@@ -1,8 +1,0 @@
-﻿Takharian Grenade Launcher
----------------------------
-Cena: 1500 Credits
-Firing Ranges: Short
-               Mid
-               Long
-Damage: Určen dle typu granátu
-Penetrace: Určena dle typu granátu
