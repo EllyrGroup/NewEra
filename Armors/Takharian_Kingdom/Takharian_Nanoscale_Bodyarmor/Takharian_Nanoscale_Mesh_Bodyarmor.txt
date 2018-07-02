@@ -1,6 +1,0 @@
-Takharian Nanoscale Mesh Bodyarmor
------------------------------
-Cena: 1300 Credits
-Material: Nanoscale, Alloy
-Armor: Energy: 5
-       Kinetic: 12

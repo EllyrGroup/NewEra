@@ -1,8 +1,0 @@
-Takharian Alloy Armor
----------------------
-Cena: 3000 Credits
-Material: Alloy
-Armor: Energy: 10
-       Kinetic: 22
-Special Attributes: Squad Target Marker Software
-                    Thermovission

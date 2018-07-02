@@ -1,6 +1,0 @@
-Takharian Nanoscale Bodyarmor
------------------------------
-Cena: 1100 Credits
-Material: Nanoscale
-Armor: Energy: 5
-       Kinetic: 11

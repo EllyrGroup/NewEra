@@ -1,7 +1,0 @@
-Alloy Add-On Armor Vest
------------------------
-Cena: 950 Credits
-Material: Alloy, Synthetic Fibre
-Armor: Energy: +2
-       Kinetic: +5
-Special Attributes: -1 Obratnost

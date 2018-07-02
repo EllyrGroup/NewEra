@@ -1,9 +1,0 @@
-Mandalorian Steel Armor
-------------------------
-Cena: 3750 Credits
-Material: Mandalorian Steel
-Armor: Energy: 26
-       Kinetic: 26
-Squad Target Marker Squad Target Marker Software 
-                    Thermovission
-                    Aim Assist Software (+5 Aim)

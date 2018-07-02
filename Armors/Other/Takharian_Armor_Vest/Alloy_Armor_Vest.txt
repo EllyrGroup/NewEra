@@ -1,6 +1,0 @@
-Alloy Armor Vest
------------------
-Cena: 1250 Credits
-Material: Alloy
-Armor: Energy: 5
-       Kinetic: 10

@@ -1,8 +1,0 @@
-Eriadu Plastoid Armor
-----------------------
-Cena: 2900 Credits
-Material: Plastoid
-Armor: Energy: 19
-       Kinetic: 15
-Special Attributes: Squad Target Marker Software
-                    Thermovission

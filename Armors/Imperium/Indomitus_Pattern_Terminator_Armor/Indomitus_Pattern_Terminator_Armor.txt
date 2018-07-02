@@ -1,9 +1,0 @@
-Indomitus Pattern Terminator Armor
------------------------------------
-Cena: 20000
-Material: Adamantium, Ceramite
-Armor: Energy: 70
-       Kinetic: 70
-Special Attributes: +6 Síla
-                    -3 Obratnost
-                    Potøeba genetická modifikace "Gene seed"

@@ -1,0 +1,43 @@
+Silicon Carbide
+---------------
+Extremnì tvrdá a tepelnì vodivá keramika. Použití jako pláty v kompozitním pancíøi.
+
+Plastoid
+---------
+Polymerový kompozit s velmi vysokou tepelnou vodivostí a tvrdostí. Použití jako pláty na ochranu pøed
+blastery a poskytující ochranu proti kinetickým projektilùm.
+
+Laminoid
+--------
+Materiál z polymerových vláken, jehož tvrdost pøipomíná vystuženou kùži. Použití jako sekundární 
+materiál pro ochranu pøed blastery.
+
+Nanoscale
+----------
+Polymerová vlákna s extrémní hustotou a strukturou pøipomínající šupiny. Využití ve vestách
+pro ochranu pøed kinetickými projektily.
+
+Takharian Alloy
+----------------
+Extrémnì odolná a relativnì lehká slitina, jejíž kompozice tajemstvím. Využití ve všech odvìtvích 
+Takharianských ozbrojených složek jako pancíø.
+
+Mandalorian Steel
+------------------
+Lehce lepší ekvivalent svému Takharianskému protìjšku. Základním prvkem pro výrobu této slitiny
+je Beskar (Mandalorianské železo) jenž se nachází pouze v systému Mandalore.
+
+Durasteel
+---------
+Slitina pøekonávající veškeré typy ocelí a vìtšinu titanových slitin. Používá se jak ve vojenském,
+tak i civilním sektoru.
+
+Ceramite
+--------
+Keramický materiál, jehož kvalita se mùže velmi lišit v závislosti na kvalitì výroby.
+Používá se jak ve vojenském, tak i civilním sektoru.
+
+Adamantium
+----------
+Nejodolnìjší prvek ve známém vesmíru. Rezervována pro nejdùležitìjší vojenské projekty, 
+jako napøíklad Indomitus-Patter Terminator Armor   

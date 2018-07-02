@@ -1,9 +1,0 @@
-Pentastar Stormtrooper Plasteel Armor
---------------------------------------
-Cena: 3300 Credits
-Material: Plastoid, Durasteel
-Armor: Energy: 24
-       Kinetic: 20
-Special Attributes: Squad Target Marker Software 
-                    Thermovission
-                    

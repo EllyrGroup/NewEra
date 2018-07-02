@@ -1,8 +1,0 @@
-Sororitas Pattern Power Armor
-------------------------------
-Cena: 6000 Credits
-Material: Adamantium, Ceramite
-Armor: Energy: 29
-       Kinetic: 29
-Special Attributes: +4 Síla
-                    Potøeba speciálního výcviku

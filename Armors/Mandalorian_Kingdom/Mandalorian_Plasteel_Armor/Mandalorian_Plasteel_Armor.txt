@@ -1,8 +1,0 @@
-Mandalorian Plasteel Armor
---------------------------
-Cena: 3400 Credits 
-Material: Platoid, Mandalorian Steel
-Armor: Energy: 24
-       Kinetic: 21
-Squad Target Marker Squad Target Marker Software 
-                    Thermovission
